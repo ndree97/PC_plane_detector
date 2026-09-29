@@ -9,3 +9,6 @@
 
 !requirements.txt
 !LICENSE
+
+!docs/
+!docs/**
