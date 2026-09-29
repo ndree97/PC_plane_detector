@@ -1,0 +1,4 @@
+open3d>=0.17.0
+laspy[lazrs]>=2.5.0
+numpy>=1.22.0
+pyvista>=0.40.0

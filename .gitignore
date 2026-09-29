@@ -1,0 +1,11 @@
+*
+!.gitignore
+
+!main.py
+!README.md
+
+!detect_planes.py
+!detect_planes.md
+
+!requirements.txt
+!LICENSE
